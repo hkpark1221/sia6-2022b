@@ -1,6 +1,7 @@
 # Spring in Action, 6th Edition Sample Code
 
-This repo will hold the sample code from [Spring in Action, 6th edition](https://www.manning.com/books/spring-in-action-sixth-edition).
+This repo is come from Habuma's sample code(https://github.com/habuma/spring-in-action-6-samples)
+This repo holds the sample code from [Spring in Action, 6th edition](https://www.manning.com/books/spring-in-action-sixth-edition).
 
 ## What are all of the weird comments with "tag::" and "end::" about???
 
